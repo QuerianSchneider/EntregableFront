@@ -1,0 +1,31 @@
+.proporciones{
+    border: 3%;
+    padding: 4%;
+    width: 80%;
+    margin: auto;
+}
+.proporciones2{
+    border: 4%;
+    padding: 4%;
+    width: 70%;
+    margin: auto;
+}
+#imagen-independiente {
+    width: 50%; 
+    height: auto;
+    border: 3px solid #ff0000;
+}
+
+#imagen-rasin {
+    width: 30%; 
+    height: auto;
+    border: 3px solid lightskyblue;
+}
+body {
+    background-image: url('../imagenes/fondoPag.jpg');
+    background-size: cover;
+    background-position: center;
+}
+h1, h2, p {
+    color: white; 
+}
